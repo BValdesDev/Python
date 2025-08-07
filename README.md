@@ -6,7 +6,6 @@ Usa SQLite como base de datos para almacenar tareas, categorías y prioridades.
 ## Funcionalidades
 - Crear, leer, actualizar y eliminar tareas.
 - Filtrar tareas por categoría y prioridad.
-- Base de datos persistente.
 - Almacenamiento persistente usando SQLite.
 
 ## Cómo usar
