@@ -7,7 +7,8 @@ Usa SQLite como base de datos para almacenar tareas, categorías y prioridades.
 - Crear, leer, actualizar y eliminar tareas.
 - Filtrar tareas por categoría y prioridad.
 - Base de datos persistente.
+- Almacenamiento persistente usando SQLite.
 
 ## Cómo usar
-ejecutar en la terminal: python main.py
+ejecutar el programa: main.py
 
